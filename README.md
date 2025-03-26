@@ -1,12 +1,12 @@
-# 🚀 ¡Hola, Soy Steven!  
-### *📚 Estudiante de Ingeniería de Software*  
+# Hi, I'm Steven :>  
+### *📚 Software Engineering Student*  
 
-## 🔥 Sobre Mí
-- 💻 Me agrada el desarrollo backend y frontend, algoritmos y café ☕ (¡mucho café!).
-- 🤖 Autodidacta por naturaleza, siempre aprendiendo algo nuevo.
-- 🎮 En mis ratos libres suelo jugar videojuegos como Valorant, Fornite, o lo que sea jsjs.
-- 🎹 Me llama la atencion tocar instrumentos musicales.
-- 📺 El anime es uno de mis pasatiempos favoritos :D.
+## 🔥 About Me
+- 💻 I enjoy backend and frontend development, algorithms, and coffee ☕ (lots of coffee!).
+- 🤖 Self-taught by nature, always learning something new.
+- 🎮 In my free time, I like playing video games like Valorant, Fortnite, or whatever catches my interest.
+- 🎹 I’m interested in playing musical instruments.
+- 📺 Anime is one of my favorite hobbies :D.
 
 ## 🛠 Tech Stack
 | Lenguajes | Frameworks/Tools | Bases de Datos |
