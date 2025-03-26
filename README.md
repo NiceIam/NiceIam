@@ -2,14 +2,14 @@
 ### *📚 Software Engineering Student*  
 
 ## 🔥 About Me
-- 💻 I enjoy backend and frontend development, algorithms, and coffee ☕ (lots of coffee!).
+- 💻 I enjoy backend and frontend development.
 - 🤖 Self-taught by nature, always learning something new.
 - 🎮 In my free time, I like playing video games like Valorant, Fortnite, or whatever catches my interest.
 - 🎹 I’m interested in playing musical instruments.
 - 📺 Anime is one of my favorite hobbies :D.
 
 ## 🛠 Tech Stack
-| Lenguajes | Frameworks/Tools | Bases de Datos |
+| Languages | Frameworks/Tools | Databases |
 |-----------|----------|----------|
 | Python 🐍 | Django 🎸 | PostgreSQL 🐘 |
 | Java ☕ | Spring Boot 🌱 | MySQL 🐬 |
