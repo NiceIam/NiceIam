@@ -2,6 +2,14 @@
 ### *Estudiante de Ingeniería de Software*  
 
 
+| Lenguajes | Frameworks/Tools | Bases de Datos |
+|-----------|----------|----------|
+| Python 🐍 | Django 🎸 | PostgreSQL 🐘 |
+| Java ☕ | Spring Boot 🌱 | MySQL 🐬 |
+| PHP🐘 | Laravel | MySQL 🐬 |
+| JavaScript | React ⚛️ | MongoDB 🍃 |
+
+
 <!--
 **NiceIam/NiceIam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
