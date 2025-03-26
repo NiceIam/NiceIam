@@ -2,11 +2,11 @@
 ### *📚 Estudiante de Ingeniería de Software*  
 
 ## 🔥 Sobre Mí
-### 💻 Me agrada el desarrollo backend y frontend, algoritmos y café ☕ (¡mucho café!).
-### 🤖 Autodidacta por naturaleza, siempre aprendiendo algo nuevo.
-### 🎮 En mis ratos libres suelo jugar videojuegos como Valorant, Fornite, o lo que sea jsjs.
-### 🎹 Me llama la atencion tocar instrumentos musicales.
-### 📺 El anime es uno de mis pasatiempos favoritos :D.
+> 💻 Me agrada el desarrollo backend y frontend, algoritmos y café ☕ (¡mucho café!).
+> 🤖 Autodidacta por naturaleza, siempre aprendiendo algo nuevo.
+> 🎮 En mis ratos libres suelo jugar videojuegos como Valorant, Fornite, o lo que sea jsjs.
+> 🎹 Me llama la atencion tocar instrumentos musicales.
+> 📺 El anime es uno de mis pasatiempos favoritos :D.
 
 ## 🛠 Tech Stack
 | Lenguajes | Frameworks/Tools | Bases de Datos |
