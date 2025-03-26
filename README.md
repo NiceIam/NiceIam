@@ -1,7 +1,7 @@
 # 🚀 ¡Hola, Soy Steven!  
 ### *Estudiante de Ingeniería de Software*  
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 | Lenguajes | Frameworks/Tools | Bases de Datos |
 |-----------|----------|----------|
 | Python 🐍 | Django 🎸 | PostgreSQL 🐘 |
