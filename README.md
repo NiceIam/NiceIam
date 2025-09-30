@@ -1,33 +1,41 @@
-# Hi, I'm Steven :>  
-### *📚 Software Engineering Student*  
+¡Hola, soy Steven! 👋
+Estudiante de Ingeniería de Software 💻
+Soy un apasionado del desarrollo de software con un fuerte interés en crear soluciones eficientes y escalables. Disfruto tanto del backend como del frontend, y siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades.
 
-## 🔥 About Me
-- 💻 I enjoy backend and frontend development.
-- 🤖 Self-taught by nature, always learning something new.
-- 🎮 In my free time, I like playing video games like Valorant, Fortnite, or whatever catches my interest.
-- 🎹 I’m interested in playing musical instruments.
-- 📺 Anime is one of my favorite hobbies :D.
+🚀 Sobre mí
+🌱 Actualmente estoy aprendiendo Spring Boot y React.
 
-## 🛠 Tech Stack
-| Languages | Frameworks/Tools | Databases |
-|-----------|----------|----------|
-| Python 🐍 | Django 🎸 | PostgreSQL 🐘 |
-| Java ☕ | Spring Boot 🌱 | MySQL 🐬 |
-| PHP🐘 | Laravel | MySQL 🐬 |
-| JavaScript | React ⚛️ | MongoDB 🍃 |
+💡 Autodidacta por naturaleza, siempre explorando nuevas tecnologías.
 
+🎮 En mi tiempo libre me gusta jugar Valorant, Fortnite o cualquier juego que llame mi atención.
 
-<!--
-**NiceIam/NiceIam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎹 Me encanta tocar instrumentos musicales.
 
-Here are some ideas to get you started:
+📺 Soy fan del anime.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tecnologías y Herramientas
+Lenguajes de Programación
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+
+Frameworks y Librerías
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
+https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+Bases de Datos
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+
+📊 Estadísticas de GitHub
+https://github-readme-stats.vercel.app/api?username=NiceIam&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=NiceIam&layout=compact&theme=radical
+
+📫 ¿Cómo contactarme?
+LinkedIn: Tu perfil
+
+Correo: tu.email@ejemplo.com
