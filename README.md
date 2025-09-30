@@ -1,7 +1,7 @@
 # ¡Hola, soy Steven! 👋  
 ### Estudiante de Ingeniería de Software 💻  
 
-Soy un apasionado del desarrollo de software con un fuerte interés en crear soluciones eficientes y escalables. Disfruto tanto del **backend** como del **frontend**, y siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades.  
+Realizo desarrollo de software con un fuerte interés en crear soluciones eficientes y escalables. Disfruto tanto del **backend** como del **frontend**, y siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades.  
 
 ## 💫 Sobre mí  
 - 🚀 Apasionado por crear soluciones innovadoras con código limpio y eficiente
