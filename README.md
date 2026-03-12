@@ -1,16 +1,28 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:6b7280,100:1f2937&height=120&section=header"/>
 
 <div align="center">
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+%26+Software+Engineer;Automation+Architect;Fullstack+Developer" alt="Typing SVG" />
-</h1>
-<p><em>Diseño sistemas inteligentes que escalan — desde pipelines de IA hasta arquitecturas distribuidas.</em></p>
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&color=FFFFFF&center=true&vCenter=true&width=450&lines=AI+%26+Software+Engineer;Automation+Architect;Fullstack+Developer" alt="Typing SVG" />
+  </div>
+  <div>
+    <img src="https://i.pinimg.com/originals/31/8e/25/318e259cdf22d9bda7554187a704aaa1.gif" width="150" alt="coding gif"/>
+  </div>
+</div>
+
 <br/>
 
-![](https://img.shields.io/badge/AI%20Engineering-A78BFA?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/Cloud%20Architecture-818CF8?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/MLOps-6366F1?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/Open%20to%20Collaborate-10B981?style=flat-square&logoColor=white)
+<p><em>Diseño sistemas inteligentes que escalan — desde pipelines de IA hasta arquitecturas distribuidas.</em></p>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Engineering-A78BFA?style=flat-square&logoColor=white" alt="AI Engineering"/>
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-818CF8?style=flat-square&logoColor=white" alt="Cloud Architecture"/>
+  <img src="https://img.shields.io/badge/MLOps-6366F1?style=flat-square&logoColor=white" alt="MLOps"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-10B981?style=flat-square&logoColor=white" alt="Open to Collaborate"/>
+</p>
 
 </div>
 
