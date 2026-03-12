@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 Sobre Mí
+## Sobre Mí
 
 Ingeniero de software especializado en **sistemas de IA en producción**, **automatización empresarial** y **arquitectura cloud-native**. Mi enfoque está en construir soluciones que no solo funcionan en demos, sino que operan a escala real con usuarios reales.
 
@@ -43,7 +43,7 @@ Experiencia demostrable en:
 
 ---
 
-## 🛠️ Stack Técnico
+## Stack Técnico
 
 <details open>
 <summary><b>AI & Machine Learning</b></summary>
@@ -104,9 +104,9 @@ Experiencia demostrable en:
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
-### 🤖 **MedInsight AI** — Sistema RAG para Análisis Clínico
+### **MedInsight AI** — Sistema RAG para Análisis Clínico
 Sistema de IA en producción que procesa registros médicos y genera informes clínicos automatizados usando Claude API + Pinecone.
 
 **Stack:** Python, FastAPI, LangChain, Claude API, Pinecone, PostgreSQL, Docker  
@@ -121,7 +121,7 @@ Sistema de IA en producción que procesa registros médicos y genera informes cl
 
 ---
 
-### 🌐 **NexusFlow** — Plataforma de Automatización Empresarial
+### **NexusFlow** — Plataforma de Automatización Empresarial
 Orquestador de workflows empresariales que conecta +15 herramientas SaaS con lógica condicional compleja y ejecución asíncrona.
 
 **Stack:** Next.js 14, TypeScript, n8n, PostgreSQL, Redis, Prisma, Vercel  
@@ -136,7 +136,7 @@ Orquestador de workflows empresariales que conecta +15 herramientas SaaS con ló
 
 ---
 
-### 🎨 **Parallax Studio** — Portfolio 3D Interactivo
+### **Parallax Studio** — Portfolio 3D Interactivo
 Sitio web inmersivo con scroll-driven animations y experiencias WebGL de alto rendimiento.
 
 **Stack:** Next.js, React Three Fiber, Three.js, GSAP, Framer Motion, Tailwind  
@@ -150,7 +150,7 @@ Sitio web inmersivo con scroll-driven animations y experiencias WebGL de alto re
 
 ---
 
-### 📊 **PredictFlow** — Pipeline de ML para Forecasting
+### **PredictFlow** — Pipeline de ML para Forecasting
 Sistema de predicción de series temporales que combina modelos estadísticos (ARIMA) con deep learning (LSTM) para pronósticos empresariales.
 
 **Stack:** Python, scikit-learn, TensorFlow, Airflow, MLflow, PostgreSQL  
@@ -165,7 +165,7 @@ Sistema de predicción de series temporales que combina modelos estadísticos (A
 
 ---
 
-### 🔐 **SecureAuth Hub** — Sistema de Autenticación Multi-Tenant
+### **SecureAuth Hub** — Sistema de Autenticación Multi-Tenant
 Servicio de autenticación empresarial con SSO, MFA y gestión granular de permisos.
 
 **Stack:** Node.js, Express, PostgreSQL, Redis, JWT, Passport.js  
@@ -179,7 +179,7 @@ Servicio de autenticación empresarial con SSO, MFA y gestión granular de permi
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -191,7 +191,7 @@ Servicio de autenticación empresarial con SSO, MFA y gestión granular de permi
 
 ---
 
-## 💡 Filosofía de Trabajo
+## Filosofía de Trabajo
 
 > **No construyo herramientas. Construyo sistemas.**  
 > La diferencia está en lo que pasa cuando no estás mirando.
@@ -204,7 +204,7 @@ Servicio de autenticación empresarial con SSO, MFA y gestión granular de permi
 
 ---
 
-## 📚 Aprendizaje Continuo
+## Aprendizaje Continuo
 
 Actualmente profundizando en:
 ```python
@@ -218,17 +218,17 @@ current_focus = {
 
 ---
 
-## 🤝 Colaboración
+## Colaboración
 
 Estoy abierto a colaborar en:
-- 🧠 Proyectos de IA aplicada con impacto real
-- 🏗️ Arquitecturas distribuidas complejas
-- 🚀 Startups tech en fase temprana (como technical co-founder)
-- 📖 Contenido técnico y mentorías
+- Proyectos de IA aplicada con impacto real
+- Arquitecturas distribuidas complejas
+- Startups tech en fase temprana (como technical co-founder)
+- Contenido técnico y mentorías
 
 ---
 
-## 📬 Conectemos
+## Conectemos
 
 <div align="center">
 
