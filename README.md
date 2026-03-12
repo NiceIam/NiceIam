@@ -197,10 +197,10 @@ Servicio de autenticación empresarial con SSO, MFA y gestión granular de permi
 > La diferencia está en lo que pasa cuando no estás mirando.
 
 **Principios:**
-- ✅ **Código en producción > demos perfectas** — Si no está desplegado, no existe
-- ✅ **Automatización inteligente** — El mejor código es el que no tienes que escribir dos veces
-- ✅ **Observabilidad primero** — Logs, métricas y traces desde el día 1
-- ✅ **Documentación como código** — Si no está documentado, asume que nadie lo va a usar
+- **Código en producción > demos perfectas** — Si no está desplegado, no existe
+- **Automatización inteligente** — El mejor código es el que no tienes que escribir dos veces
+- **Observabilidad primero** — Logs, métricas y traces desde el día 1
+- **Documentación como código** — Si no está documentado, asume que nadie lo va a usar
 
 ---
 
