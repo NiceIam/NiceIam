@@ -171,9 +171,9 @@ Servicio de autenticación empresarial con SSO, MFA y gestión granular de permi
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark&bg_color=0f172a&title_color=a78bfa&icon_color=818cf8&text_color=e2e8f0&border_color=1e293b&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=NiceIam&show_icons=true&theme=dark&bg_color=0f172a&title_color=a78bfa&icon_color=818cf8&text_color=e2e8f0&border_color=1e293b&hide_border=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=dark&background=0f172a&ring=a78bfa&fire=818cf8&currStreakLabel=e2e8f0&border=1e293b)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NiceIam&theme=dark&background=0f172a&ring=a78bfa&fire=818cf8&currStreakLabel=e2e8f0&border=1e293b)
 
 </div>
 
