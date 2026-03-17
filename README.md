@@ -13,7 +13,7 @@
 
 <br/>
 
-<p><em>Diseño sistemas inteligentes que escalan — desde pipelines de IA hasta arquitecturas distribuidas.</em></p>
+<p><em>I design intelligent systems that scale — from AI pipelines to distributed architectures.</em></p>
 
 <br/>
 
@@ -28,22 +28,22 @@
 
 ---
 
-## Sobre Mí
+## About Me
 
-Ingeniero de software especializado en **sistemas de IA en producción**, **automatización empresarial** y **arquitectura cloud-native**. Mi enfoque está en construir soluciones que no solo funcionan en demos, sino que operan a escala real con usuarios reales.
+Software engineer specialized in **production AI systems**, **enterprise automation**, and **cloud-native architecture**. My focus is on building solutions that not only work in demos, but operate at real scale with real users.
 
-Experiencia demostrable en:
-- Desplegar modelos LLM en producción con alta disponibilidad
-- Diseñar pipelines de datos que procesan millones de registros
-- Automatizar flujos empresariales complejos con n8n + Python
-- Crear experiencias web inmersivas con WebGL/Three.js
+Proven experience in:
+- Deploying LLM models in production with high availability
+- Designing data pipelines that process millions of records
+- Automating complex business workflows with n8n + Python
+- Creating immersive web experiences with WebGL/Three.js
 
-**Stack principal:** Python, TypeScript, Next.js, PostgreSQL, Docker, AWS  
-**Especialización:** RAG systems, agentic workflows, real-time data pipelines
+**Main Stack:** Python, TypeScript, Next.js, PostgreSQL, Docker, AWS  
+**Specialization:** RAG systems, agentic workflows, real-time data pipelines
 
 ---
 
-## Stack Técnico
+## Tech Stack
 
 <details open>
 <summary><b>AI & Machine Learning</b></summary>
@@ -104,78 +104,78 @@ Experiencia demostrable en:
 
 ---
 
-## Proyectos Destacados
+## Featured Projects
 
-### **MedInsight AI** — Sistema RAG para Análisis Clínico
-Sistema de IA en producción que procesa registros médicos y genera informes clínicos automatizados usando Claude API + Pinecone.
+### **MedInsight AI** — RAG System for Clinical Analysis
+Production AI system that processes medical records and generates automated clinical reports using Claude API + Pinecone.
 
 **Stack:** Python, FastAPI, LangChain, Claude API, Pinecone, PostgreSQL, Docker  
-**Impacto:** Reducción del 70% en tiempo de análisis de historias clínicas  
+**Impact:** 70% reduction in medical history analysis time  
 **Highlights:**
-- Pipeline ETL que procesa 50k+ documentos médicos diarios
-- RAG con embeddings personalizados y reranking semántico
-- API REST con autenticación HIPAA-compliant
-- Deploy en AWS ECS con auto-scaling
+- ETL pipeline processing 50k+ medical documents daily
+- RAG with custom embeddings and semantic reranking
+- REST API with HIPAA-compliant authentication
+- Deployment on AWS ECS with auto-scaling
 
-🔗 [Ver código](https://github.com/tuusuario/medinsight-ai) | [Demo privada disponible]
+🔗 [View code](https://github.com/tuusuario/medinsight-ai) | [Private demo available]
 
 ---
 
-### **NexusFlow** — Plataforma de Automatización Empresarial
-Orquestador de workflows empresariales que conecta +15 herramientas SaaS con lógica condicional compleja y ejecución asíncrona.
+### **NexusFlow** — Enterprise Automation Platform
+Enterprise workflow orchestrator that connects 15+ SaaS tools with complex conditional logic and asynchronous execution.
 
 **Stack:** Next.js 14, TypeScript, n8n, PostgreSQL, Redis, Prisma, Vercel  
-**Impacto:** 200+ horas/mes automatizadas en operaciones repetitivas  
+**Impact:** 200+ hours/month automated in repetitive operations  
 **Highlights:**
-- Dashboard real-time con WebSocket para monitoreo de ejecuciones
-- Editor visual de workflows tipo drag-and-drop
-- Integración nativa con Slack, Notion, Google Workspace, Salesforce
-- Sistema de retry inteligente con exponential backoff
+- Real-time dashboard with WebSocket for execution monitoring
+- Drag-and-drop visual workflow editor
+- Native integration with Slack, Notion, Google Workspace, Salesforce
+- Intelligent retry system with exponential backoff
 
-🔗 [Ver repositorio](https://github.com/tuusuario/nexusflow) | [Live demo](https://nexusflow.demo)
+🔗 [View repository](https://github.com/tuusuario/nexusflow) | [Live demo](https://nexusflow.demo)
 
 ---
 
-### **Parallax Studio** — Portfolio 3D Interactivo
-Sitio web inmersivo con scroll-driven animations y experiencias WebGL de alto rendimiento.
+### **Parallax Studio** — Interactive 3D Portfolio
+Immersive website with scroll-driven animations and high-performance WebGL experiences.
 
 **Stack:** Next.js, React Three Fiber, Three.js, GSAP, Framer Motion, Tailwind  
 **Highlights:**
-- Scene 3D con +100k polígonos renderizados a 60 FPS
-- Custom shaders GLSL para efectos de iluminación
-- Arquitectura optimizada: code splitting + lazy loading
+- 3D scene with 100k+ polygons rendered at 60 FPS
+- Custom GLSL shaders for lighting effects
+- Optimized architecture: code splitting + lazy loading
 - Lighthouse score: 98/100 performance
 
-🔗 [Ver live](https://parallax-studio.vercel.app) | [Repositorio](https://github.com/tuusuario/parallax-studio)
+🔗 [View live](https://parallax-studio.vercel.app) | [Repository](https://github.com/tuusuario/parallax-studio)
 
 ---
 
-### **PredictFlow** — Pipeline de ML para Forecasting
-Sistema de predicción de series temporales que combina modelos estadísticos (ARIMA) con deep learning (LSTM) para pronósticos empresariales.
+### **PredictFlow** — ML Pipeline for Forecasting
+Time series prediction system combining statistical models (ARIMA) with deep learning (LSTM) for business forecasting.
 
 **Stack:** Python, scikit-learn, TensorFlow, Airflow, MLflow, PostgreSQL  
-**Impacto:** Mejora del 35% en precisión vs. métodos baseline  
+**Impact:** 35% improvement in accuracy vs. baseline methods  
 **Highlights:**
-- Pipeline orquestado con Apache Airflow
-- Feature engineering automatizado con Optuna
-- A/B testing de modelos en producción
-- Deployment con FastAPI + Docker en AWS Lambda
+- Pipeline orchestrated with Apache Airflow
+- Automated feature engineering with Optuna
+- A/B testing of models in production
+- Deployment with FastAPI + Docker on AWS Lambda
 
-🔗 [Documentación técnica](https://github.com/tuusuario/predictflow)
+🔗 [Technical documentation](https://github.com/tuusuario/predictflow)
 
 ---
 
-### **SecureAuth Hub** — Sistema de Autenticación Multi-Tenant
-Servicio de autenticación empresarial con SSO, MFA y gestión granular de permisos.
+### **SecureAuth Hub** — Multi-Tenant Authentication System
+Enterprise authentication service with SSO, MFA, and granular permission management.
 
 **Stack:** Node.js, Express, PostgreSQL, Redis, JWT, Passport.js  
 **Highlights:**
 - OAuth 2.0 + OpenID Connect implementation
-- Rate limiting distribuido con Redis
-- Audit logs con rotación automática
-- Soporte para SAML y LDAP
+- Distributed rate limiting with Redis
+- Audit logs with automatic rotation
+- SAML and LDAP support
 
-🔗 [Ver código](https://github.com/tuusuario/secureauth-hub)
+🔗 [View code](https://github.com/tuusuario/secureauth-hub)
 
 ---
 
@@ -191,22 +191,22 @@ Servicio de autenticación empresarial con SSO, MFA y gestión granular de permi
 
 ---
 
-## Filosofía de Trabajo
+## Work Philosophy
 
-> **No construyo herramientas. Construyo sistemas.**  
-> La diferencia está en lo que pasa cuando no estás mirando.
+> **I don't build tools. I build systems.**  
+> The difference is in what happens when you're not looking.
 
-**Principios:**
-- **Código en producción > demos perfectas** — Si no está desplegado, no existe
-- **Automatización inteligente** — El mejor código es el que no tienes que escribir dos veces
-- **Observabilidad primero** — Logs, métricas y traces desde el día 1
-- **Documentación como código** — Si no está documentado, asume que nadie lo va a usar
+**Principles:**
+- **Production code > perfect demos** — If it's not deployed, it doesn't exist
+- **Intelligent automation** — The best code is the one you don't have to write twice
+- **Observability first** — Logs, metrics, and traces from day 1
+- **Documentation as code** — If it's not documented, assume no one will use it
 
 ---
 
-## Aprendizaje Continuo
+## Continuous Learning
 
-Actualmente profundizando en:
+Currently deepening in:
 ```python
 current_focus = {
     "AI": ["Fine-tuning LLMs", "Multi-agent systems", "RAG optimization"],
@@ -218,17 +218,17 @@ current_focus = {
 
 ---
 
-## Colaboración
+## Collaboration
 
-Estoy abierto a colaborar en:
-- Proyectos de IA aplicada con impacto real
-- Arquitecturas distribuidas complejas
-- Startups tech en fase temprana (como technical co-founder)
-- Contenido técnico y mentorías
+I'm open to collaborate on:
+- Applied AI projects with real impact
+- Complex distributed architectures
+- Early-stage tech startups (as technical co-founder)
+- Technical content and mentorships
 
 ---
 
-## Conectemos
+## Let's Connect
 
 <div align="center">
 
