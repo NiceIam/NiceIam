@@ -106,18 +106,19 @@ Proven experience in:
 
 ## Featured Projects
 
-### **MedInsight AI** — RAG System for Clinical Analysis
-Production AI system that processes medical records and generates automated clinical reports using Claude API + Pinecone.
+### **Odor Disease AI** — Early Disease Detection by Smell
+Replaces detection dogs with AI: deep learning system that diagnoses diseases from breath analysis using electronic nose sensors, achieving >90% accuracy before clinical symptoms appear.
 
-**Stack:** Python, FastAPI, LangChain, Claude API, Pinecone, PostgreSQL, Docker  
-**Impact:** 70% reduction in medical history analysis time  
+**Stack:** PyTorch, NumPy/SciPy, Scikit-learn, Arduino, Bosch BME688, Docker  
+**Impact:** Detects diabetes (85-92%), lung cancer (90%), Parkinson's (>85%)  
 **Highlights:**
-- ETL pipeline processing 50k+ medical documents daily
-- RAG with custom embeddings and semantic reranking
-- REST API with HIPAA-compliant authentication
-- Deployment on AWS ECS with auto-scaling
+- Non-invasive diagnosis: analyzes acetone, benzene, and VOC biomarkers
+- 3 neural architectures: CNN 1D (fast), ResNet 1D (accurate), Transformer (SOTA)
+- Complete hardware integration: Arduino MQ sensors + Raspberry Pi edge deployment
+- Signal processing pipeline: filtering, normalization, PCA, spectrogram generation
+- Research-backed: implements methods from Nature Nanotechnology papers
 
-🔗 [View code](https://github.com/tuusuario/medinsight-ai) | [Private demo available]
+🔗 [View code](https://github.com/NiceIam/odor-disease-ai) | [Hardware guide](https://github.com/NiceIam/odor-disease-ai/blob/main/docs/HARDWARE_SETUP.md)
 
 ---
 
