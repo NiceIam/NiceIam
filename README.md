@@ -188,6 +188,14 @@ Enterprise authentication service with SSO, MFA, and granular permission managem
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NiceIam&theme=dark&background=0f172a&ring=a78bfa&fire=818cf8&currStreakLabel=e2e8f0&border=1e293b)
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NiceIam/NiceIam/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NiceIam/NiceIam/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NiceIam/NiceIam/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
